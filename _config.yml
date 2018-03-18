@@ -1,1 +1,7 @@
 theme: jekyll-theme-hacker
+avatar: "/img/question_mark.jpg"
+navbar-links:
+    About Me: "aboutme"
+    Pages:
+        - Curriculum: "test.html"
+        - Study Notes: "notes.md"
